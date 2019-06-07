@@ -1,2 +1,2 @@
-# vagrant_stuff
+# Vagrant File Repository
 Repository of Vagrant stuff
